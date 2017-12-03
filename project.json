@@ -1,0 +1,8 @@
+{
+  "name": "cloud-assistant-functions",
+  "description": "Cloud Assistant Functions",
+  "memory": 128,
+  "timeout": 10,
+  "role": "arn:aws:iam::603109814369:role/cloud-assistant-functions_lambda_function",
+  "environment": {}
+}
